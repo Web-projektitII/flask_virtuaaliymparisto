@@ -1,1 +1,1 @@
-# flask_virtuaaliymparisto
+# flask_virtuaaliymparistön scripts-kansio ja .pyenv.cfg-tiedosto
